@@ -1,0 +1,15 @@
+{
+  "name": "katwekibsletteravatar",
+  "version": "1.0.0",
+  "description": "google like letter avatars",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "letter",
+    "avatar"
+  ],
+  "author": "msmyslov",
+  "license": "ISC"
+}
